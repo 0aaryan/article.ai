@@ -1,6 +1,3 @@
-Certainly! Here's an updated and more detailed `readme.md`:
-
-```markdown
 # Article.ai
 
 Article.ai is a versatile project that empowers you to generate blog content, whether you have a specific topic in mind or a collection of URLs to explore. Leveraging OpenAI's language models, the project provides functionality to convert topics into articles, articles into articles (with summarization), and extract URLs from a given source.
