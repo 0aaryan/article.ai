@@ -82,13 +82,43 @@ Make sure you have Python installed on your system. You can download it from [py
 - `requirements.txt`: Project dependencies.
 - `readme.md`: Project documentation.
 
+## Contribution Guidelines
+
+1. Fork the repository.
+
+2. Clone your forked repository:
+
+   ```bash
+   git clone https://github.com/0aaryan/article.ai.git
+   ```
+
+3. Create a new branch for your feature or bug fix:
+
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+4. Make your changes and commit:
+
+   ```bash
+   git commit -m "Add your commit message here"
+   ```
+
+5. Push your changes to your fork:
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+6. Create a pull request on the main repository.
+
 ## Contributors
 
-- [Your GitHub Username](https://github.com/0aaryan)
+- [0aaryan](https://github.com/0aaryan)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Please replace `"your_api_key_here"` in the `.env` example with your actual OpenAI API key.
+Please replace `"your_api_key_here"` in the `.env` example with your actual OpenAI API key. Feel free to customize the contribution guidelines section further based on your specific expectations for contributors.
